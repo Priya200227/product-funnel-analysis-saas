@@ -242,7 +242,7 @@ Additional behavioral data could help identify **why users drop off at specific 
 # How to Reproduce This Project
 
 1. Clone the repository  
-git clone https://github.com/yourusername/product-funnel-analysis-saas.git
+git clone https://github.com/Priya2000227/product-funnel-analysis-saas.git
 
 2. Run SQL queries from the **sql** folder
 
